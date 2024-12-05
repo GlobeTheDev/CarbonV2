@@ -16,4 +16,4 @@
 - [globe](https://github.com/GlobeTheDev)
 
 ## User Install Guide
-Install information can be found in [here](https://github.com/ImPosh/Carbon/wiki)
+Install information can be found on the [wiki](https://github.com/ImPosh/Carbon/wiki)
