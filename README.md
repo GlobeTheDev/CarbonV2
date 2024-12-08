@@ -13,7 +13,7 @@
 
 ## Creators
 
-- [globe](https://github.com/GlobeTheDev)
+- [Josh](https://github.com/imm-josh)
 
 ## User Install Guide
 Install information can be found on the [wiki](https://github.com/GlobeTheDev/Moonlight/wiki)
